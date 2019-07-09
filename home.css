@@ -1,0 +1,73 @@
+#main {
+    width: 100%;
+    min-height: 350px;
+    background-color: hsl(0, 0%, 95%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 473px;
+    max-height: 520px;
+    margin: auto;
+    display: block;
+    filter: grayscale(80%);
+}
+
+h1, h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#title {
+    font-size: 3em;   
+    background-color: hsl(120, 5%, 5%);
+    margin: 0px 0px 0em 0px;
+    padding: 0.3em 0px 0.3em 0px;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.1em;
+    margin: 5em;
+}
+
+#img-caption {
+    color: white;
+    text-align: center;
+    padding: 0 0 1em 0;
+    margin: 0.5em;
+}
+
+.header {
+    margin-top: 0;
+    background-color: hsl(120, 16%, 16%);
+    padding-bottom: 3em; 
+}
+
+#tribute-info{
+    padding: 0px 17vw 5vh 17vw;
+}
+
+#tribute-link {
+    color: black;
+}
+
+#tribute-link:hover {
+    color: hsl(242, 65%, 29%);
+}
+
+.bold {
+    font-weight: bold;
+    display: inline;
+}
+
+p{
+    margin: 2em 0 2em 0;
+}
